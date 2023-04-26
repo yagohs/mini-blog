@@ -1,4 +1,3 @@
-import { db } from '../firebase/config'
 
 import {
     createUserWithEmailAndPassword,
